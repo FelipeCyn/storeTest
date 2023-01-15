@@ -1,0 +1,10 @@
+.header {
+  background-color: white;
+}
+
+html {
+  background: url(./assets/teste2.png);  
+  background-repeat: repeat;
+  background-size: 130px 130px;
+  margin: 0px 20%
+}
